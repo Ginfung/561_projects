@@ -1,0 +1,12 @@
+Hello!
+I am Jianfeng Chen. My student id is 200065465.
+
+For this project,
+the program can read the window.txt file to set the window size;
+the program supports off-axis and rectangular projections;
+and to get the more visible result, the program read the light location and color in a file. However, I haven't finished multiply light source casting.
+As for the detecting shadows, I find that my program is not robust. My source code for this has been included in the package. But I don't turn on this feather at this time.
+
+All in all, the basic requirement-ray casting has been done. And also some of the additional function has been finished.
+
+Finally, I wrote a obj file and material file parser for myself. I don't know whether I can get extra credit for this. :)

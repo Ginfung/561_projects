@@ -1,0 +1,268 @@
+#
+#
+#
+
+newmtl AileronL01 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl AileronR01 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl BrakeL01 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl BrakeL02 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl BrakeL03 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl BrakeL04 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl BrakeL05 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl BrakeR01 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl BrakeR02 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl BrakeR03 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl BrakeR04 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl BrakeR05 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl Canopy01 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl DoorL01 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl DoorR01 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl Eject_Seat01 Mesh_seat
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd Eject_Seat.png
+
+newmtl Eject_Seat02 Mesh_seat
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd Eject_Seat.png
+
+newmtl ElevatorL01 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl ElevatorR01 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl FlapL01 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl FlapR01 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl Glass01 Mesh_glass
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd Glass_Cockpit.png
+
+newmtl Glass_Canopy01 Mesh_glass
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd Glass_Cockpit.png
+
+newmtl Glass_HUD Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl Hook Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl LOD0 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl Pilot01 Mesh_pilot
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd Pilot_usa.png
+
+newmtl Pilot02 Mesh_pilot
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd Pilot_usa.png
+
+newmtl RudderL01 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl VoletL01 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl VoletL02 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl VoletR01 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+
+newmtl VoletR02 Mesh_plane
+illum 2
+Ka 0.117647 0.117647 0.117647
+Kd 1.000000 1.000000 1.000000
+Ks 0.752941 0.752941 0.752941
+Ns 8.000000
+map_Kd A-6_Intruder_P01.png
+

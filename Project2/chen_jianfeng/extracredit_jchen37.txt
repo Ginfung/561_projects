@@ -1,0 +1,5 @@
+I am Jianfeng Chen.(jchen37@ncsu.edu)
+In addition tp the basic requirements, I also finished the following tasks:
+1) Support arbitary viewing setups
+2) Multiple and arbitrarily located lights
+3) 8-bit image formats
